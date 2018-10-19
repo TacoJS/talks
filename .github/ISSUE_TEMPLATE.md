@@ -1,14 +1,15 @@
-**Your name and twitter handle:**
+## TacoJS Talk Submission
 
+**Talk Title:**
 
+**Talk Description:**
 
-**Your talk idea, described briefly:**
+**Name**:
 
+**Preferred Pronouns**:
 
+**Twitter Handle (optional)**:
 
-**Approx length, must be less than 15 minutes to be considered:**
+**Website (optional):**
 
-
-
-**Type of talk (creative, passion, technical):**
-
+**Months Available to Speak:** We recommend selecting multiple months (up to 6) that you are available to speak. We'll keep your PR open throughout those months if you aren't accepted the first time!
